@@ -3,7 +3,7 @@
 # Part 2 of the Database Project series
 
 # 📸 For a detailed guide and to apply these steps in your AWS setup, check out my full documentation below.
-# https://drive.google.com/file/d/1M2GVBpyozShpdOGj28PNUx3DPFjeLjZ2/view?usp=sharing
+ https://drive.google.com/file/d/1M2GVBpyozShpdOGj28PNUx3DPFjeLjZ2/view?usp=sharing
 
 In this Aurora AWS project 💪
 
