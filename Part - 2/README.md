@@ -1,6 +1,6 @@
 # Aurora Database With EC2
 
-# Part 2 of the Database Project series
+# Part - 2 of the Database Project series
 
 # 📸 For a detailed guide and to apply these steps in your AWS setup, check out my full documentation below.
  https://drive.google.com/file/d/1M2GVBpyozShpdOGj28PNUx3DPFjeLjZ2/view?usp=sharing
